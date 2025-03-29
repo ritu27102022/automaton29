@@ -25,6 +25,7 @@ public class Demo
 			System.out.println("this is m4 method");
 			System.out.println("This is m5 method");
 		        System.out.println("This is m6 method");
+		       System.out.println("Thhis is m7 method);
 		
 	}
 
